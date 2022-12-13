@@ -2,6 +2,7 @@ package study.dfsBfs;
 
 import org.junit.Test;
 
+/** TODO: 다시 한번 풀어 봐야 할것 같다 */
 public class NetWork {
 
     public void netWork(boolean[] checked, int[][] computers, int i, int len) {
